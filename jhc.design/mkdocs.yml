@@ -1,0 +1,5 @@
+site_name: jhc.design
+nav:
+  - Home: index.md
+  - SportShoes: beva.md
+theme: material
