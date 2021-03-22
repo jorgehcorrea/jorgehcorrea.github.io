@@ -1,1 +1,17 @@
-site_name: My Docs
+site_name: jhc.design
+site_url:
+repo_url:
+site_description: Industrial designer based in Quito sharing proejcts
+site_author: jorge hernan correa
+google_analytics: ['', '']
+
+theme:
+  name: material
+  favicon: 'img/facivon.ico'
+
+nav:
+  - 'beva.md'
+  - 'rogers.md'
+  - 'avh.md'
+  - 'index.md'
+  - 'about.md'
