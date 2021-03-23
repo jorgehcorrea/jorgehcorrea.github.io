@@ -1,5 +1,3 @@
-<meta http-equiv="Refresh" content="0; url="https://jorgehcorrea.github.io/" />
-<!--
 # jhc.design BACKEND
 You have just reached my backend home site. If you wish to go back to my nice home click [here: take me back to jhc.design](http://www.jhc.design)  
 
@@ -30,4 +28,3 @@ If you are curious why you got here, im working on another concept of portfolio 
 ##Simple Image hosting
 Hosted images in dorpbox, and switched the www.dorpbox.com to dl.dorpboxusercontent.com in order to make it hostable. Not sure why the images would not be picked up by the mkdocs. Proof of concept:
 ![](https://dl.dropboxusercontent.com/s/y4m70ng7b6lsfdh/as2.jpg?dl=0)  
--->
