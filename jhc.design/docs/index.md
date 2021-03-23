@@ -1,3 +1,4 @@
+<meta http-equiv="Refresh" content="0; url='https://www.jhc.design'" />
 # jhc.design BACKEND
 You have just reached my backend home site. If you wish to go back to my nice home click [here: take me back to jhc.design](http://www.jhc.design)  
 

@@ -7,3 +7,14 @@ nav:
   - Random Concepts: sketchfw.md
   - Bunky website:  bunkywebsite.md
 theme: material
+  favicon: assets/logo.png
+
+extra:
+  homepage: https://www.jhc.design
+
+plugins:
+    - redirects:
+        redirect_maps:
+            'index.md': 'avh.md'
+            'old/file.md': 'new/file.md'
+            'some_file.md': 'http://external.url.com/foobar'
