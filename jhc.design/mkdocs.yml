@@ -15,6 +15,10 @@ theme:
   palette:
     primary: white
     accent: green
+plugins:
+    - redirects:
+        redirect_maps:
+            'index.md': 'https://jorgehcorrea.github.io/'
 
 extra:
   homepage: https://www.jhc.design
@@ -23,9 +27,3 @@ extra:
       link: https://www.linkedin.com/in/jorgehcorrea/
     - icon: fontawesome/brands/behance
       link: https://www.behance.net/jorgecorrea9
-
-
-plugins:
-    - redirects:
-        redirect_maps:
-            'index.md': 'https://jorgehcorrea.github.io/'

@@ -1,6 +1,6 @@
-
-<meta http-equiv="Refresh" content="0"; url="https://jorgehcorrea.github.io/" />
-
+<head>
+<meta http-equiv="Refresh" content="0" url="https://jorgehcorrea.github.io/" />
+</head>
 <!--
 # jhc.design Backdoor
 You have just reached my backend home site. If you wish to go back to my nice home click [here: take me back to jhc.design](http://www.jhc.design)  
