@@ -4,12 +4,9 @@ nav:
   - SportShoes: beva.md
   - FormalShoes: formal.md
   - A. Von Humboldt: avh.md
-  - Random Concepts: sketchfw.md
-  - Bunky website:  bunkywebsite.md
+
+
 theme: material
-  palette:
-    primary: white
-    accent: light green
 
 extra:
   homepage: https://www.jhc.design
