@@ -2,4 +2,8 @@ site_name: jhc.design
 nav:
   - Home: index.md
   - SportShoes: beva.md
+  - FormalShoes: formal.md
+  - A. Von Humboldt: avh.md
+  - Random Concepts: sketchfw.md
+  - Bunky website:  bunkywebsite.md
 theme: material
