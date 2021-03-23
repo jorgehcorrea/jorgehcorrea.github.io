@@ -24,7 +24,3 @@ If you are curious why you got here, im working on another concept of portfolio 
  - vibram shoe expanssion
  - electro tattoo
  - inflatable winged shoe
-
-##Simple Image hosting
-Hosted images in dorpbox, and switched the www.dorpbox.com to dl.dorpboxusercontent.com in order to make it hostable. Not sure why the images would not be picked up by the mkdocs. Proof of concept:
-![](https://dl.dropboxusercontent.com/s/y4m70ng7b6lsfdh/as2.jpg?dl=0)  

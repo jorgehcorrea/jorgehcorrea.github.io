@@ -1,16 +1,23 @@
 site_name: jhc.design
 nav:
   - Home: index.md
-  - SportShoes: beva.md
-  - FormalShoes: formal.md
+  - Sport Shoes: beva.md
+  - Formal Shoes: formal.md
   - A. Von Humboldt: avh.md
+  - Climb Shoe Concept: xnewbalance.md
   - Colgado Stool: colgadoStool.md
   - Floating Sink: floatingSink.md
-  - Other Prjects:
-  - Bunky Website: bunkywebsite.md
-  - Offroad Solar Energy: neoGaia.md
-  - Office Furniture: atu.md
-  - BunkyWebsite: bunkywebsite.md
-  - Random sketching: sketchfw.md
 
-theme: material
+
+theme:
+  name: material
+  font: Ubuntu
+  palette:
+    primary: white
+    accent: green
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/jorgehcorrea/
+    - icon: fontawesome/brands/behance
+      link: https://www.behance.net/jorgecorrea9
