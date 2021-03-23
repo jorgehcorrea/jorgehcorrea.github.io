@@ -47,4 +47,11 @@ Not sure what one is the one that makes it all work, but it works.
 ###Images hosted from dorpbox
 It becomes much easier, especially with the extensions (.png vs .PNG) as well as file size management to use all images from dorpbox private account. If I ever stop paying dorpbox ill inevitably have to host all images some other place, ei. porkbun or in the GitHub.
 At the moment, I replace https://dl.dropbox.com/ with https://dl.dropboxusercontent.com/ and it all works.
+
+Index dimensions: 569x800px
+
+Changes:
+- Enchanted room >> Website
+- Machine Week >> sitncoffee
+
 -->
