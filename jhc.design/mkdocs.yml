@@ -7,7 +7,9 @@ nav:
   - Random Concepts: sketchfw.md
   - Bunky website:  bunkywebsite.md
 theme: material
-
+  palette:
+    primary: white
+    accent: light green
 
 extra:
   homepage: https://www.jhc.design
