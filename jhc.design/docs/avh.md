@@ -4,7 +4,7 @@ This was a project developed for [CanCal](https://www.instagram.com/camcalzado/)
 ![](https://dl.dropboxusercontent.com/s/lbo3f8nfq6f0htv/avh%20%288%29.png?dl=0)
 ![](https://dl.dropboxusercontent.com/s/u6tflk62phnlksh/avh%20%287%29.png?dl=0)
 #light prototypes
-![](https://dl.dropboxusercontent.com/s/oughlo9xvccohq7/Artboard%209%402x-100.jpg?dl=0)
+![](https://dl.dropboxusercontent.com/s/mtcowrn0wm9fios/avh_test.jpg?dl=0)
 ##Inspiration
 ![](https://dl.dropboxusercontent.com/s/w3rpze96pomr4ow/Artboard%206%402x-100.jpg?dl=0)
 ##High heals
