@@ -16,12 +16,13 @@ theme:
     primary: white
     accent: green
 extra:
+    homepage: https://www.jhc.design
   social:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/jorgehcorrea/
     - icon: fontawesome/brands/behance
       link: https://www.behance.net/jorgecorrea9
-  homepage: https://www.jhc.design
+
 
 plugins:
     - redirects:
