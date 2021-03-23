@@ -21,3 +21,9 @@ extra:
       link: https://www.linkedin.com/in/jorgehcorrea/
     - icon: fontawesome/brands/behance
       link: https://www.behance.net/jorgecorrea9
+  homepage: https://www.jhc.design
+
+plugins:
+    - redirects:
+        redirect_maps:
+            'index.md': 'https://jorgehcorrea.github.io/'
