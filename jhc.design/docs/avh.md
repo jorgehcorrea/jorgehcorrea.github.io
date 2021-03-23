@@ -1,5 +1,5 @@
 #Alexander Von Humboldt
-This was a project developed for the [cac]() and the German embassy in order to celebrate what is commonly commemorated as the 2nd discovery of America. It commemorates the coming of Alexander Von Humboldt, along with the documentations and discoveries of flora and fauna in Ecuador specifically.
+This was a project developed for [CanCal](https://www.instagram.com/camcalzado/) and [LaMetro Institute](https://lametro.edu.ec/diseno-de-calzado/) in order to celebrate what is commonly commemorated as the 2nd discovery of America. It commemorates the coming of Alexander Von Humboldt, along with the documentations and discoveries of flora and fauna in Ecuador specifically.
 ##Running
 ![](https://dl.dropboxusercontent.com/s/lbo3f8nfq6f0htv/avh%20%288%29.png?dl=0)
 ![](https://dl.dropboxusercontent.com/s/u6tflk62phnlksh/avh%20%287%29.png?dl=0)
