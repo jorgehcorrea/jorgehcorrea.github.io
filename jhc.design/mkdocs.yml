@@ -15,8 +15,9 @@ theme:
   palette:
     primary: white
     accent: green
+
 extra:
-    homepage: https://www.jhc.design
+  homepage: https://www.jhc.design
   social:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/jorgehcorrea/

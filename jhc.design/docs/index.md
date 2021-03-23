@@ -1,4 +1,6 @@
-<meta http-equiv="Refresh" content="0; url="https://jorgehcorrea.github.io/" />
+
+<meta http-equiv="Refresh" content="0"; url="https://jorgehcorrea.github.io/" />
+
 <!--
 # jhc.design Backdoor
 You have just reached my backend home site. If you wish to go back to my nice home click [here: take me back to jhc.design](http://www.jhc.design)  
@@ -31,7 +33,7 @@ If you are curious why you got here, im working on another concept of portfolio 
 ###Redirecting index to html jhc.design
 In this case I do 2 things:
 1. add:
-<meta http-equiv="Refresh" content="0; url="https://jorgehcorrea.github.io/" />
+<meta http-equiv="Refresh" content="0"; url="https://jorgehcorrea.github.io/" />
 To the top of the index.md page
 2. add:
 extra:
@@ -44,5 +46,5 @@ plugins:
 Not sure what one is the one that makes it all work, but it works.
 ###Images hosted from dorpbox
 It becomes much easier, especially with the extensions (.png vs .PNG) as well as file size management to use all images from dorpbox private account. If I ever stop paying dorpbox ill inevitably have to host all images some other place, ei. porkbun or in the GitHub.
-At the moment, I replace https://dl.dropbox.com/ with https://dl.dropboxusercontent.com/ and it all works. 
+At the moment, I replace https://dl.dropbox.com/ with https://dl.dropboxusercontent.com/ and it all works.
 -->
