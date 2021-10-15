@@ -1,4 +1,4 @@
-#Office Furniture]
+#Office Furniture
 Development of an Ergonomic chair system for in house production, targeting the Latin American Market.
 ![](https://dl.dropboxusercontent.com/s/wb8gk1tmjlefphf/3%20%282%29.jpg?dl=0)
 ![](https://dl.dropboxusercontent.com/s/klz76aorrbbyiiv/17.jpg?dl=0)
