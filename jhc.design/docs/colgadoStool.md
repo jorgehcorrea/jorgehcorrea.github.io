@@ -8,5 +8,3 @@ Developed as a stool solution to be beautiful, compact when not in use and light
 ##Mechanism
 ![](https://dl.dropboxusercontent.com/s/8xynko2bk3bdffm/150223_minor%20boards_floatstool_Page_5_Image_0001.jpg?dl=0)
 ![](https://dl.dropboxusercontent.com/s/15mb24bx7rmphni/b2172a25459595.563459f78ee0f.jpg?dl=0)
-##Doors Opening
-<iframe src="https://player.vimeo.com/video/527892239" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
